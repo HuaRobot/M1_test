@@ -1,12 +1,12 @@
 {
-    "name": "HuaRobot_M1",
-    "version": "1.2.0",
-    "description": "Extension for Hua_M1",
+    "name": "mbit",
+    "version": "1.1.0",
+    "description": "Extension for Hua_Mbit",
     "license": "MIT",
     "dependencies": {
         "core": "*",
         "neopixel": "github:microsoft/pxt-neopixel#v0.3.10",
-        "Hua_M1_IR":  "github:HuaRobot/Hua_microbit-IR"
+        "Hua_Mbit_IR":  "github:China-Legends/Hua_microbit-IR"
 	
 
     },
