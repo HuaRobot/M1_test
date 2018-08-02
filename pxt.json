@@ -1,7 +1,7 @@
 {
-    "name": "mbit",
+    "name": "m1",
     "version": "2.0.0",
-    "description": "Extension for Hua_Mbit",
+    "description": "Extension for HuaRobot_M1",
     "license": "MIT",
     "dependencies": {
         "core": "*",
