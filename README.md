@@ -1,6 +1,6 @@
-# mbit
+# m1
 
-Extension for Hua_microbit
+Extension for Hua_m1
 
 ## License
 
