@@ -2,7 +2,7 @@
 Copyright (C): 2010-2019, Shenzhen Yahboom Tech
 modified from liusen
 load dependency
-"mbit": "file:../pxt-mbit"
+"m1": "file:../pxt-m1"
 */
 
 
