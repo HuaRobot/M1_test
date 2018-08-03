@@ -1,6 +1,6 @@
 {
-    "name": "mbit",
-    "version": "2.0.0",
+    "name": "m1",
+    "version": "3.0.0",
     "description": "Extension for HuaRobot_M1",
     "license": "MIT",
     "dependencies": {
